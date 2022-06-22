@@ -7,7 +7,7 @@
  -To provide a visual representation of play/campaign outcomes based on their launch dates and funding goals.
 
 ## Analysis and Challenges
- -Using current data was a challenge for this analysis. Our data represents campaigns from the years **2009-2017**. Using data that is 5 years or older can misrepresent the true monetary value of our data given the current macro economic environment (inflation). 
+ -Using current data was a challenge for this analysis. Our data represents campaigns from the years **2009-2017**. Using data that is 5 years old or older can misrepresent the true monetary value of our data given the current macro economic environment (inflation). 
 
  -In addition, relying soley on older data to influence current decisions is not taking into account the current environment and any possible new/emerging variables.
 
